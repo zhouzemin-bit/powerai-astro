@@ -46,9 +46,8 @@
     "meta_description": "PowerAI Astro is a free, dark-themed AI SaaS website template built with Astro. It has 15+ pre-built pages, 47 components and shortcodes."
   },
 
-  "comment": {
+  "open-remark-comment": {
     "enable": true,
-    "provider": "open-remark",
     "siteKey": "cmpl2v9m4000104jjmruazes1"
   }
 }
